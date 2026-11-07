@@ -48,17 +48,29 @@ This application dynamically animates the Gradient Descent optimization algorith
 *Upon execution, the terminal will prompt you to select the dimension and input your mathematical function and hyperparameters:*
 
 Enter the dimension between 1 and 3: 2
+
 Enter the function f(x, y): x**2 + y**2
+
 Enter the minimum value for x: -10
+
 Enter the maximum value for x: 10
+
 Enter the minimum value for y: -10
+
 Enter the maximum value for y: 10
+
 Enter the value of x: 8
+
 Enter the value of y: 8
+
 Enter the value of h: 0.001
+
 Enter the learning rate: 0.1
+
 Enter the number of iterations: 100
+
 Enter the value of tolerance of x: 0.0001
+
 Enter the value of tolerance of y: 0.0001
 
 ***Once the parameters are set, a Matplotlib window will open, animating the red marker as it descends the cost function surface toward the minimum.***
