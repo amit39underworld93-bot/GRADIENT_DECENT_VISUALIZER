@@ -41,7 +41,7 @@ This application dynamically animates the Gradient Descent optimization algorith
 3. ### Execute the script:
    *Run the main file to start the interactive terminal prompt.*
 
-   `python3 main_4.py`
+   `python3 main.py`
 
 ## 📸 Usage Overview
 
